@@ -1,3 +1,3 @@
 ### FPSCounter
 
-![](images/0.gif)
+![](images/0.png)
